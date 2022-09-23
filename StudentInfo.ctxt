@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StudentInfo
+comment1.params=studentArray
+comment1.target=void\ seeTotalMark(Student[])
+comment2.params=studentArray
+comment2.target=void\ checkThreshold(Student[])
+comment3.params=studentArray
+comment3.target=void\ highestLowestCalculate(Student[])
+comment4.params=studentArray\ data\ size
+comment4.target=void\ seeData(Student[],\ java.lang.String,\ int)
+comment5.params=choice\ studentArray
+comment5.target=void\ choiceMenu(int,\ Student[])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
